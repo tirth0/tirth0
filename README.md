@@ -26,7 +26,7 @@
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/tirth0"><img alt="Tirtho's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=tirth0&custom_title=Tirtharaj%Sengupta's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/tirth0"><img alt="Tirtho's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=tirth0&custom_title=Tirtharaj%20Sengupta's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 </details>
