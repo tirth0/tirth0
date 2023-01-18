@@ -3,7 +3,7 @@
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Information+Science;Web+Developer;DSA%20|%20DevOps;Parliamentary%20Debate&center=true&width=500&height=50&font=georgia"></a>
 </p>
 <hr/>
-<h4 align="center">I am a pre-final year student at Ramaiah Institute of Technology. Currently working at Ringover, Montrouge France. I am a highly enthusiastic and committed Software Developer with a keen eye for new technologies. I am proficient in React, Express, SQL, NoSQL, Graph databases and Docker. </h4>
+<h4 align="center">I am a final year student at Ramaiah Institute of Technology. Currently working at Ringover, I am a highly enthusiastic and committed Software Developer with a keen eye for new technologies. I am proficient in React, Express, SQL, NoSQL, Graph databases and Docker. </h4>
 <br>
 
 
